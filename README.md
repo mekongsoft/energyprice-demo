@@ -13,6 +13,8 @@ https://github.com/mekongsoft/energyprice-demo
 
 We deploy a Energy Price Prediction for 77 areas of the US, including: Colorado, Florida, Idaho, Minnesota, Mountain, Nebraska, North Dakota, South Atlantic, South Carolina, Utah and West South Central, etc.
 
+<img src="https://github.com/mekongsoft/energyprice-demo/blob/main/marketing/average_price_12state2.png"/>
+
 These are some of our energy price prediction's accuracy charts (total 77 charts) by comparing our predicted prices to the actual prices from 2022-2024.
 
 <img src="https://github.com/mekongsoft/energyprice-demo/blob/main/marketing/predicted_vs_expected_price_Colorado.png"/>
