@@ -39,7 +39,7 @@ These are some of our energy price prediction's accuracy charts (total 77 charts
 
 <img src="https://github.com/mekongsoft/energyprice-demo/blob/main/marketing/predicted_vs_expected_price_West%20South%20Central.png"/>
 
-This Repo is for Markerting Demo tasks.
+This Repo is for Marketing Demo tasks.
 
 https://github.com/mekongsoft/energyprice-demo
 
